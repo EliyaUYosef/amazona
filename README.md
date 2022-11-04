@@ -1,8 +1,9 @@
 # AMAZONA
 
 # Lessons
+
 1. Introduction
-2. Install Tools 
+2. Install Tools
 3. Create React App
 4. Create Git Repository
 5. List Products
@@ -44,3 +45,4 @@
     1. create Rating component
     2. Create Product component
     3. Use Rating component in Product component
+       eliya here !
