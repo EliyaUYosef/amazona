@@ -3,8 +3,10 @@ import ReactDOM from "react-dom";
 import { HelmetProvider } from "react-helmet-async";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css";
+/* eslint-disable */
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+/* eslint-disable */
 import { StoreProvider } from "./Store";
 
 ReactDOM.render(
