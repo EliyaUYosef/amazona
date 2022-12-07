@@ -1,5 +1,15 @@
+# Link for demo website : https://eliya-amazona.herokuapp.com/
+
+## Eliya said : 
+I wrote this project for several reasons: 
+   1. To practice writing server-side code in JavaScript 
+   2. To learn and use React for learning the language 
+   3. To learn modern technologies such as Heroku from Salesforce 
+   4. To practice building a MongoDB database and linking it to the project 
+   5. To debug and experiment in Node.js environment.
+
+
 # AMAZONA
-https://eliya-amazona.herokuapp.com/
 
 # Lessons
 
