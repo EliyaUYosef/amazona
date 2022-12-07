@@ -7,8 +7,8 @@ I wrote this project for several reasons:
    3. To learn modern technologies such as Heroku from Salesforce 
    4. To practice building a MongoDB database and linking it to the project 
    5. To debug and experiment in Node.js environment.
-* The project was built in accordance
-##### Udemy course link : https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/
+##### This project was built in accordance Udemy course
+##### Udemy course - link : https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/
 
 # AMAZONA
 
