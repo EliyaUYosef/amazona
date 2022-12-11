@@ -3,7 +3,7 @@
 ## Eliya said : 
 I wrote this project for several reasons: 
    1. To practice writing server-side code in JavaScript 
-   2. To learn and use React for learning the language 
+   2. To learn and use React for improve my abilities
    3. To learn modern technologies such as Heroku from Salesforce 
    4. To practice building a MongoDB database and linking it to the project 
    5. To debug and experiment in Node.js environment.
