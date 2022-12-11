@@ -1,13 +1,17 @@
 ##### Link for demo website : https://eliya-amazona.herokuapp.com/
 
-## Eliya said : 
-I wrote this project for several reasons: 
-   1. To practice writing server-side code in JavaScript 
-   2. To learn and use React for improve my abilities
-   3. To learn modern technologies such as Heroku from Salesforce 
-   4. To practice building a MongoDB database and linking it to the project 
-   5. To debug and experiment in Node.js environment.
+## Eliya :
+
+I wrote this project for several reasons:
+
+1.  To practice writing server-side code in JavaScript
+2.  To learn and use React for improve my abilities
+3.  To learn modern technologies such as Heroku from Salesforce
+4.  To practice building a MongoDB database and linking it to the project
+5.  To debug and experiment in Node.js environment.
+
 ##### This project was built in accordance Udemy course
+
 ##### Udemy course - link : https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/
 
 # AMAZONA
@@ -165,3 +169,7 @@ I wrote this project for several reasons:
     1. define protected route component
     2. define admin route component
     3. add menu for admin in header
+37. Create Dashboard Screen
+    1. create dashboard ui
+    2. implement backend api
+    3. connect ui to backend
